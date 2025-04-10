@@ -1,0 +1,1039 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* ---------------------------- GENERAL------------------------------ */
+
+.navegador{
+    height: 80px;
+    width: 100%;
+    background-color: #007FB7;
+    position: fixed;
+    top: 0;
+    z-index: 9999999999999999;
+}
+
+
+.parte1 {
+    background-color: ;
+}
+
+.parte2 {
+    background-color: white;
+}
+
+.parte3 {
+    background-color: white;
+}
+
+.parte4 {
+    background-color: white;
+}
+
+/* ---------------------------- GENERAL------------------------------ */
+/* ---------------------------- navegador------------------------------ */
+
+
+
+/* ---------------------------- navegador------------------------------ */
+/* ---------------------------- PARTE 1 ------------------------------ */
+
+.zona1{
+
+}
+
+        .foto1{
+
+        }
+
+        .foto2{
+
+        }        
+        
+        .texto{
+          color: #007FB7;
+        }
+
+/* ---------------------------- PARTE 1 ------------------------------ */
+
+/* ---------------------------- PARTE 2 ------------------------------ */
+
+.zona2{
+
+}
+
+        .baner1{
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+
+        .baner2{
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+
+        .baner3{
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+
+        .baner44{
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+
+        .baner55{
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+
+        .baner66{
+
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+
+
+.zona3{
+
+}
+
+        .baner4{
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+
+        .baner5{
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+
+        .baner6{
+
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+
+/* ---------------------------- PARTE 2 ------------------------------ */
+
+/* ---------------------------- PARTE 3 ------------------------------ */
+
+.videopromocional{
+    background-image: url(../img/video.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.zona4{
+
+}
+
+        .google{
+            background-image: url(../img/play.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+
+        .apple{
+            background-image: url(../img/apple.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+
+/* ---------------------------- PARTE 3 ------------------------------ */
+
+/* ---------------------------- PARTE 4 ------------------------------ */
+
+.contactanos{
+    color: #007FB7;
+}
+
+.logo{
+    background-image: url(../img/logo_mco.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/* ---------------------------- PARTE 4 ------------------------------ */
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 480px) {
+    /* Smartphone */
+ 
+     /* ---------------------------- GENERAL---------------------- */
+
+     .navegador{
+        height: 80px;
+        width: 100%;
+        position: fixed;
+        top: 0;
+        z-index: 9999999999999999;
+    }
+
+
+    .parte1 {
+        height: 800px;
+    }
+
+    .parte2 {
+        height: 900px;
+    }
+
+    .parte3 {
+        height: 350px;
+    }
+
+    .parte4 {
+        height: 500px;
+    }
+
+/* ---------------------------- GENERAL------------------------------ */
+
+/* ---------------------------- navegador------------------------------ */
+
+.co{
+    height: 60%;
+    width: 80px;
+    background-image: url(../img/CO.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    margin: 14px 0;
+}
+
+.apartados{
+    height: 30px;
+    width: 250px;
+    float: left;
+    font-size: 16px;
+    margin: 30px 0;
+}
+
+.link{
+    height: 30px;
+    width: 83px;
+    float: left;
+    text-decoration: none;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.link:hover{
+    color: #3A92AD;
+    font-size: 17px;
+}
+
+
+/* ----------------------------  navegador------------------------------ */
+
+ /* ---------------------------- PARTE 1 ------------------------------ */
+
+ .zona1{
+    height: 100%;
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+
+        .foto1{
+            height: 47%;
+            width: 95%;
+            border-radius: 10%;
+            margin: 2.5%;
+            float: left;
+            background-image: url(../img/chica.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+
+        .foto2{
+            height: 47%;
+            width: 48%;
+            margin: ;
+            float: left;
+            border-radius: 10%;
+            background-image: url(../img/MANO.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+        }       
+        
+        .texto{
+            height: 40%;
+            width: 48%;
+            margin: 1%;
+            float: left;
+            font-size: 2rem;
+        }
+
+/* ---------------------------- PARTE 1 ------------------------------ */
+/* ---------------------------- PARTE 2 ------------------------------ */
+
+.zona2{
+    height: 100%;
+    width: 95%;
+    margin: 0 auto;
+}
+
+        .baner1{
+            height: 24%;
+            width: 100%;
+            border-radius: 10%;
+            background-image: url(../img/foto2.jpg);
+
+            float: left;
+        }
+
+        .baner2{
+            height: 22%;
+            width: 47%;
+            margin: 1.5%;
+            float: left;
+            border-radius: 10%;
+            background-image: url(../img/baner1.png);
+        }
+
+        .baner3{
+            height: 22%;
+            width: 47%;
+            margin: 1.5%;
+            border-radius: 10%;
+            background-image: url(../img/baner2.png);
+            float: left;
+        }
+
+
+.zona3{
+
+}
+
+        .baner44{
+            height: 20%;
+            width: 100%;
+            border-radius: 10%;
+            background-image: url(../img/baner4.png);
+            float: left;
+
+        }
+
+        .baner55{
+            height: 23%;
+            width: 47%;
+            margin: 1.5%;
+            float: left;
+            border-radius: 10%;
+            background-image: url(../img/APP.png);
+        }
+
+        .baner66{
+            height: 23%;
+            width: 47%;
+            margin: 1.5%;
+            float: left;
+            border-radius: 10%;
+            background-image: url(../img/baner3.png);
+
+        }
+
+/* ---------------------------- PARTE 2 ------------------------------ */
+/* ---------------------------- PARTE 3 ------------------------------ */
+
+.videopromocional{
+    height: 75%;
+    width: 94%;
+    margin: 1% 0 0 0;
+    border-radius: 0 10% 10% 0;
+}
+
+.zona4{
+    height: 25%;
+    width: 80%;
+    margin: 0 auto;
+}
+
+        .google{
+            height: 60%;
+            width: 40%;
+            float: left;
+            margin: 4% 2% 4% 8%;
+        }
+
+        .apple{
+            height: 60%;
+            width: 40%;
+            float: left;
+            margin: 4% 8% 4% 2%;
+        }
+
+/* ---------------------------- PARTE 3 ------------------------------ */
+/* ---------------------------- PARTE 4 ------------------------------ */
+
+.zona5{
+    height: 80%;
+    width: 80%;
+    margin: 0 auto;
+}
+
+        .contactanos{
+            height: 15%;
+            width: 100%;
+            margin: 0 auto;
+            font-size: 2rem;
+            text-align: center;
+        }
+
+        .mail{
+            height: 30%;
+            width: 100%;
+            float: left;
+
+        }
+
+        .asunto{
+            height: 30%;
+            width: 100%;
+            float: left;
+
+        }
+
+                #writeBar {
+                    width: 200px;
+                    height: 25px;
+                    border: 1px solid #ccc;
+                    padding: 10px;
+                    resize: none;
+                    font-size: 16px;
+                    display: block;
+                    margin: 40px auto auto auto;
+                }
+
+        .enviar{
+            height: 10%;
+            width: 100%;
+            float: left;
+        }
+
+                #sendButton {
+                    padding: 10px 20px;
+                    font-size: 16px;
+                    cursor: pointer;
+                    margin: 0 40%;
+                }
+
+.logo{
+    height: 20%;
+    width: 50%;
+    margin: 0 auto;
+}
+
+/* ---------------------------- PARTE 4 ------------------------------ */
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 481px) and (max-width: 1279px) {
+    /* Tablet */
+
+        /* ---------------------------- GENERAL---------------------- */
+
+        .navegador{
+            height: 80px;
+            width: 100%;
+            position: fixed;
+            top: 0;
+            z-index: 9999999999999999;
+        }
+
+
+        .parte1 {
+            height: 800px;
+        }
+
+        .parte2 {
+            height: 900px;
+        }
+
+        .parte3 {
+            height: 700px;
+        }
+
+        .parte4 {
+            height: 800px;
+        }
+
+    /* ---------------------------- GENERAL------------------------------ */
+
+
+/* ---------------------------- navegador------------------------------ */
+
+.co{
+    height: 80%;
+    width: 100px;
+    background-image: url(../img/CO.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    margin: 7px;
+}
+
+.apartados{
+    height: 30px;
+    width: 360px;
+    float: left;
+    font-size: 20px;
+    margin: 25px 0;
+}
+
+.link{
+    height: 30px;
+    width: 120px;
+    float: left;
+    text-decoration: none;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.link:hover{
+    color: #3A92AD;
+    font-size: 22px;
+}
+
+
+/* ----------------------------  navegador------------------------------ */
+
+    /* ---------------------------- PARTE 1 ------------------------------ */
+
+    .zona1{
+        height: 100%;
+        width: 90%;
+        margin: 0 auto;
+        margin-top: 80px;
+    }
+
+            .foto1{
+                height: 45%;
+                width: 95%;
+                border-radius: 10%;
+                margin: 2.5%;
+                float: left;
+                background-image: url(../img/chica.jpg);
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-position: center;
+            }
+
+            .foto2{
+                height: 45%;
+                width: 48%;
+                margin: ;
+                float: left;
+                border-radius: 10%;
+                background-image: url(../img/MANO.png);
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-position: center;
+            }       
+            
+            .texto{
+                height: 40%;
+                width: 48%;
+                margin: 1%;
+                float: left;
+                font-size: 2.7rem;
+            }
+
+/* ---------------------------- PARTE 2 ------------------------------ */
+
+.zona2{
+    height: 100%;
+    width: 95%;
+    margin: 0 auto;
+}
+
+        .baner1{
+            height: 20%;
+            width: 27%;
+            margin: 2% 2% 0 2%;
+            border-radius: 10%;
+
+            background-image: url(../img/baner1.png);
+            float: left;
+        }
+
+        .baner2{
+            height: 25%;
+            width: 68%;
+            float: left;
+            border-radius: 10%;
+
+            background-image: url(../img/foto2.jpg);
+        }
+
+        .baner3{
+            height: 40%;
+            width: 45%;
+            border-radius: 10%;
+            background-image: url(../img/baner2.png);
+            float: left;
+            margin: 1% 3%;
+        }
+
+
+.zona3{
+
+}
+
+        .baner44{
+            height: 40%;
+            width: 45%;
+            border-radius: 10%;
+            background-image: url(../img/APP.png);
+            float: left;
+            margin: 1%;
+
+        }
+
+        .baner55{
+            height: 30%;
+            width: 68%;
+            float: left;
+            border-radius: 10%;
+            background-image: url(../img/baner4.png);
+
+        }
+
+        .baner66{
+            height: 20%;
+            width: 27%;
+            margin: 2% 2% 0 2%;
+            float: left;
+            border-radius: 10%;
+            background-image: url(../img/baner3.png);
+
+        }
+
+/* ---------------------------- PARTE 2 ------------------------------ */
+/* ---------------------------- PARTE 3 ------------------------------ */
+
+.videopromocional{
+    height: 75%;
+    width: 94%;
+    margin: 1% 0 0 0;
+    border-radius: 0 10% 10% 0;
+}
+
+.zona4{
+    height: 25%;
+    width: 80%;
+    margin: 0 auto;
+}
+
+        .google{
+            height: 60%;
+            width: 40%;
+            float: left;
+            margin: 4% 2% 4% 8%;
+        }
+
+        .apple{
+            height: 60%;
+            width: 40%;
+            float: left;
+            margin: 4% 8% 4% 2%;
+        }
+
+/* ---------------------------- PARTE 3 ------------------------------ */
+/* ---------------------------- PARTE 4 ------------------------------ */
+
+.zona5{
+    height: 70%;
+    width: 80%;
+    margin: 0 auto;
+}
+
+        .contactanos{
+            height: 20%;
+            width: 75%;
+            margin: 0 auto;
+            font-size: 3rem;
+            text-align: center;
+        }
+
+        .mail{
+            height: 30%;
+            width: 100%;
+            float: left;
+
+        }
+
+        .asunto{
+            height: 30%;
+            width: 100%;
+            float: left;
+
+        }
+
+                #writeBar {
+                    width: 400px;
+                    height: 25px;
+                    border: 1px solid #ccc;
+                    padding: 10px;
+                    resize: none;
+                    font-size: 16px;
+                    display: block;
+                    margin: 40px auto auto auto;
+                }
+
+        .enviar{
+            height: 10%;
+            width: 100%;
+            float: left;
+        }
+
+                #sendButton {
+                    padding: 10px 20px;
+                    font-size: 16px;
+                    cursor: pointer;
+                    margin: 0 45%;
+                }
+
+.logo{
+    height: 30%;
+    width: 70%;
+    margin: 0 auto;
+}
+
+/* ---------------------------- PARTE 4 ------------------------------ */
+
+
+}
+
+
+
+
+
+@media screen and (min-width: 1280px) {
+    /* Ordenador */
+
+    /* ---------------------------- GENERAL--------------------------- */
+
+        .navegador{
+            height: 80px;
+            width: 100%;
+            position: fixed;
+            top: 0;
+            z-index: 9999999999999999;
+        }
+
+
+        .parte1 {
+            height: 600px;
+        }
+
+        .parte2 {
+            height: 800px;
+        }
+
+        .parte3 {
+            height: 700px;
+        }
+
+        .parte4 {
+            height: 800px;
+        }
+
+/* ---------------------------- GENERAL------------------------------ */
+
+/* ---------------------------- navegador------------------------------ */
+
+.co{
+    height: 80%;
+    width: 150px;
+    background-image: url(../img/CO.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0.35% 1%;
+    float: left;
+}
+
+.apartados{
+    height: 80px;
+    width: 600px;
+    background-color:;
+    float: left;
+    font-size: 30px;
+    margin: 0 100px;
+}
+
+.link{
+    height: 40px;
+    width: 160px;
+    background-color: ;
+    margin: 20px;
+    float: left;
+    text-decoration: none;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.link:hover{
+    color: #3A92AD;
+    font-size: 31px;
+}
+
+
+/* ----------------------------  navegador------------------------------ */
+
+/* ---------------------------- PARTE 1 ------------------------------ */
+
+.zona1{
+    height: 100%;
+    width: 95%;
+    margin: 0 auto;
+    margin-top: 80px;
+    
+}
+
+        .foto1{
+            height: 90%;
+            width: 20%;
+            margin: 1%;
+            float: left;
+            border-radius: 10%;
+            background-image: url(../img/MANO.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+
+        .foto2{
+            height: 90%;
+            width: 52%;
+            margin: 1%;
+            float: left;
+            border-radius: 10%;
+            background-image: url(../img/chica.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+        }        
+        
+        .texto{
+            height: 90%;
+            width: 20%;
+            margin: 1%;
+            float: left;
+            border-radius: 10%;
+            font-size: 4.5rem;
+        }
+
+/* ---------------------------- PARTE 1 ------------------------------ */
+
+/* ---------------------------- PARTE 2 ------------------------------ */
+
+.zona2{
+    height: 50%;
+    width: 95%;
+    margin: 0 auto;
+}
+
+        .baner1{
+            height: 90%;
+            width: 47%;
+            margin: 1%;
+            float: left;
+            border-radius: 10%;
+            background-image: url(../img/foto2.jpg);
+        }
+
+        .baner2{
+            height: 90%;
+            width: 22%;
+            margin: 1%;
+            float: left;
+            border-radius: 10%;
+            background-image: url(../img/baner1.png);
+        }
+
+        .baner3{
+            height: 90%;
+            width: 22%;
+            margin: 1%;
+            float: left;
+            border-radius: 10%;
+            background-image: url(../img/baner2.png);
+        }
+
+
+.zona3{
+    height: 50%;
+    width: 95%;
+    margin: 0 auto;
+}
+
+        .baner4{
+            height: 90%;
+            width: 22%;
+            margin: 1%;
+            float: left;
+            border-radius: 10%;
+            background-image: url(../img/baner3.png);
+        }
+
+        .baner5{
+            height: 90%;
+            width: 22%;
+            margin: 1%;
+            float: left;
+            border-radius: 10%;
+            background-image: url(../img/APP.png);
+        }
+
+        .baner6{
+            height: 90%;
+            width: 47%;
+            margin: 1%;
+            float: left;
+            border-radius: 10%;
+            background-image: url(../img/baner4.png);
+        }
+
+/* ---------------------------- PARTE 2 ------------------------------ */
+
+/* ---------------------------- PARTE 3 ------------------------------ */
+
+.videopromocional{
+    height: 75%;
+    width: 94%;
+    margin: 1% 0 0 0;
+    border-radius: 0 10% 10% 0;
+}
+
+.zona4{
+    height: 25%;
+    width: 40%;
+    margin: 0 auto;
+}
+
+        .google{
+            height: 60%;
+            width: 40%;
+            float: left;
+            margin: 4% 2% 4% 8%;
+        }
+
+        .apple{
+            height: 60%;
+            width: 40%;
+            float: left;
+            margin: 4% 8% 4% 2%;
+        }
+
+/* ---------------------------- PARTE 3 ------------------------------ */
+
+/* ---------------------------- PARTE 4 ------------------------------ */
+
+.zona5{
+    height: 70%;
+    width: 80%;
+    margin: 0 auto;
+}
+
+        .contactanos{
+            height: 20%;
+            width: 75%;
+            margin: 0 auto;
+            font-size: 7rem;
+            text-align: center;
+        }
+
+        .mail{
+            height: 50%;
+            width: 50%;
+            float: left;
+
+        }
+
+        .asunto{
+            height: 50%;
+            width: 50%;
+            float: left;
+
+        }
+
+                #writeBar {
+                    width: 400px;
+                    height: 25px;
+                    border: 1px solid #ccc;
+                    padding: 10px;
+                    resize: none;
+                    font-size: 16px;
+                    display: block;
+                    margin: 100px auto auto auto;
+                }
+
+        .enviar{
+            height: 30%;
+            width: 100%;
+            float: left;
+        }
+
+                #sendButton {
+                    margin-top: 10px;
+                    padding: 10px 20px;
+                    font-size: 16px;
+                    cursor: pointer;
+                    margin: 5% 47%;
+                }
+
+.logo{
+    height: 30%;
+    width: 40%;
+    margin: 0 auto;
+}
+
+/* ---------------------------- PARTE 4 ------------------------------ */
+
+}
