@@ -739,9 +739,11 @@ body{
                 }
 
 .logo{
-    height: 30%;
-    width: 70%;
+    height: 15%;
+    width: 30%;
     margin: 0 auto;
+    position:relative;
+    bottom: -120px;
 }
 
 /* ---------------------------- PARTE 4 ------------------------------ */
