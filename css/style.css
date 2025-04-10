@@ -4,8 +4,15 @@
 }
 
 body{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Avenir;
 }
+
+@font-face {
+    font-family: 'Avenir';
+    src: url(../fonts/Avenir.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
 
 /* ---------------------------- GENERAL------------------------------ */
 
@@ -204,7 +211,7 @@ body{
     }
 
     .parte2 {
-        height: 900px;
+        height: 600px;
     }
 
     .parte3 {
@@ -338,7 +345,7 @@ body{
 }
 
         .baner44{
-            height: 20%;
+            height: 25%;
             width: 100%;
             border-radius: 10%;
             background-image: url(../img/baner4.png);
@@ -362,7 +369,6 @@ body{
             float: left;
             border-radius: 10%;
             background-image: url(../img/baner3.png);
-
         }
 
 /* ---------------------------- PARTE 2 ------------------------------ */
@@ -451,9 +457,11 @@ body{
                 }
 
 .logo{
-    height: 20%;
-    width: 50%;
+    height: 15%;
+    width: 30%;
     margin: 0 auto;
+    position:relative;
+    bottom: -120px;
 }
 
 /* ---------------------------- PARTE 4 ------------------------------ */
@@ -490,7 +498,7 @@ body{
         }
 
         .parte2 {
-            height: 900px;
+            height: 1400px;
         }
 
         .parte3 {
@@ -592,31 +600,30 @@ body{
 }
 
         .baner1{
-            height: 20%;
-            width: 27%;
-            margin: 2% 2% 0 2%;
+            height: 24%;
+            width: 100%;
             border-radius: 10%;
+            background-image: url(../img/foto2.jpg);
 
-            background-image: url(../img/baner1.png);
             float: left;
         }
 
         .baner2{
-            height: 25%;
-            width: 68%;
+            height: 22%;
+            width: 47%;
+            margin: 1.5%;
             float: left;
             border-radius: 10%;
-
-            background-image: url(../img/foto2.jpg);
+            background-image: url(../img/baner1.png);
         }
 
         .baner3{
-            height: 40%;
-            width: 45%;
+            height: 22%;
+            width: 47%;
+            margin: 1.5%;
             border-radius: 10%;
             background-image: url(../img/baner2.png);
             float: left;
-            margin: 1% 3%;
         }
 
 
@@ -625,34 +632,31 @@ body{
 }
 
         .baner44{
-            height: 40%;
-            width: 45%;
+            height: 20%;
+            width: 100%;
             border-radius: 10%;
-            background-image: url(../img/APP.png);
+            background-image: url(../img/baner4.png);
             float: left;
-            margin: 1%;
 
         }
 
         .baner55{
-            height: 30%;
-            width: 68%;
+            height: 23%;
+            width: 47%;
+            margin: 1.5%;
             float: left;
             border-radius: 10%;
-            background-image: url(../img/baner4.png);
-
+            background-image: url(../img/APP.png);
         }
 
         .baner66{
-            height: 20%;
-            width: 27%;
-            margin: 2% 2% 0 2%;
+            height: 23%;
+            width: 47%;
+            margin: 1.5%;
             float: left;
             border-radius: 10%;
             background-image: url(../img/baner3.png);
-
         }
-
 /* ---------------------------- PARTE 2 ------------------------------ */
 /* ---------------------------- PARTE 3 ------------------------------ */
 
